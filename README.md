@@ -1,2 +1,2 @@
 # weather-app
-![plot](C:\Users\Ali\Documents\Phpstorm-projects\weather-app\screenshot.png)
+![plot](https://github.com/dev-sheikh-ali/weather-app/blob/main/screenshot.png?raw=true)
